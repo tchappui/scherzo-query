@@ -1,0 +1,13 @@
+{
+    "name": "tchappui/scherzo-query",
+    "description": "Scherzo-query is the query building component used by the Scherzo educational web framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thierry Chappuis",
+            "email": "thierry@chappuis.io"
+        }
+    ],
+    "require": {}
+}
